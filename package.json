@@ -1,0 +1,17 @@
+{
+  "name": "node-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "level": "^1.5.0",
+    "micro": "^6.2.0",
+    "then-levelup": "^1.0.2"
+  }
+}
